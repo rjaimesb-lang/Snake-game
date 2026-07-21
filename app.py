@@ -20,7 +20,7 @@ h1, h2, h3, p, label, .stMarkdown {
 """
 st.markdown(estilo_fondo, unsafe_allow_html=True)
 
-st.title("🐍 Juego Clásico de Snake")
+st.title("🐍 Juego de Snake")
 st.write("¡Juega desde tu PC con el teclado o usa los botones táctiles en tu celular!")
 
 st.divider()
